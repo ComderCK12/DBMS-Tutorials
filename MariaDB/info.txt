@@ -1,0 +1,6 @@
+MySQL Tutorial 
+
+
+Welcome to the MySQL Tutorial! This repository contains a collection of examples and tutorials for performing various operations on MariaDB, which is a drop-in replacement for MySQL.
+
+In this repository, you will find step-by-step guides and examples on how to perform common operations on MariaDB, a popular open-source relational database management system. Whether you are a beginner or an experienced developer, these tutorials will help you understand and master MariaDB operations.
